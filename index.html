@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EWU Summer-2025 Faculty List</title>
+    <!-- Google Fonts for an elegant look -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <!-- Link to our future CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>EWU Summer-2025 Faculty List</h1>
+            <p>Published: 8th May 2025</p>
+            
+        </div>
+    </header>
+
+    <!-- Popup Overlay -->
+    <div class="popup-overlay" id="popupOverlay">
+        <div class="popup-content">
+            <div class="popup-message">
+                <p>আপাতত কিছু dept এর টা add করেছি তাতেই হাত ব্যাথা হইসে, বাকি dept গুলো পরে করে দিবো</p>
+            </div>
+            <button class="popup-close" onclick="closePopup()">&times;</button>
+        </div>
+    </div>
+
+    <main class="container">
+        <div class="search-container">
+            <div class="search-box">
+                <input type="text" id="courseSearch" placeholder="Search by Course Code (e.g., ACT101)">
+            </div>
+            <div class="search-box">
+                <input type="text" id="facultySearch" placeholder="Search by Faculty Initial (e.g., NHN)">
+            </div>
+            <div class="search-box">
+                <input type="text" id="sectionSearch" placeholder="Search by Section (e.g., 1)">
+            </div>
+        </div>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Course</th>
+                        <th>Faculty</th>
+                        <th>Section</th>
+                        <th>Seat</th>
+                        <th>TimeSlot</th>
+                    </tr>
+                </thead>
+                <tbody id="course-table-body">
+                    <!-- Course data will be loaded here by JavaScript -->
+                </tbody>
+            </table>
+            <div id="no-results" class="hidden">
+                <p>No matching courses found.</p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; Created by &ltCodeWithPritom&gt. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Link to our future JavaScript file -->
+    <script src="script.js"></script>
+</body>
+</html>

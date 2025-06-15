@@ -1,0 +1,6421 @@
+[
+  {
+    "course": "ACT101",
+    "faculty": "MRDI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "NHN",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "NHN",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "NHN",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "T 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "NHN",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "S 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "THD",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "SR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "THD",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "S 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "THD",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "T 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "THD",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "MSQI",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "MSQI",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "ST 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "MHRN",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "MHRN",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "SR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "MHRN",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "TR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "TOMA",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "FARIN",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ACT101",
+    "faculty": "FARIN",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "SR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ACT201",
+    "faculty": "MRDI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ACT201",
+    "faculty": "ZMD",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ACT201",
+    "faculty": "NHN",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ACT201",
+    "faculty": "NHN",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT201",
+    "faculty": "THD",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT201",
+    "faculty": "MSQI",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "SR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ACT201",
+    "faculty": "TOMA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "SR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "ACT201",
+    "faculty": "TOMA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "TR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "ACT201",
+    "faculty": "TOMA",
+    "section": "9",
+    "seat": "0/5",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "ACT311",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "ACT311",
+    "faculty": "TBA",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "ACT411",
+    "faculty": "DACY",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ACT411",
+    "faculty": "MSQI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT421",
+    "faculty": "ZMD",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ACT421",
+    "faculty": "ZMD",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "ST 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "ACT425",
+    "faculty": "MHRN",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ACT441",
+    "faculty": "NCS",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ACT441",
+    "faculty": "NCS",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT442",
+    "faculty": "DACY",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "ST 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT445",
+    "faculty": "DACY",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ACT478",
+    "faculty": "NCS",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ACT526",
+    "faculty": "DMFH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 06:30 PM - 09:30 PM"
+  },
+  {
+    "course": "ACT528",
+    "faculty": "DMMZN",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "F 09:00 AM - 12:00 PM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "MRDI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "NHN",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "NHN",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "NHN",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "S 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "NHN",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "T 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "THD",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "SR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "THD",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "S 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "THD",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "T 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "THD",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "MSQI",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "FARIN",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "SR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "TBA",
+    "section": "9",
+    "seat": "0/0",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "TBA",
+    "section": "9",
+    "seat": "0/0",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/0",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/0",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "MSQI",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "MSQI",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "ST 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "FARIN",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "MHRN",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "SR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "MHRN",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "TR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "ACT7101",
+    "faculty": "TOMA",
+    "section": "16",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "BUS101",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "BUS101",
+    "faculty": "MSIF",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "ST 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "BUS101",
+    "faculty": "MMHN",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "ST 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "BUS101",
+    "faculty": "EKRAM",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "TR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "BUS101",
+    "faculty": "EKRAM",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "TR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "BUS101",
+    "faculty": "MHMI",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "ST 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "BUS101",
+    "faculty": "MHMI",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "BUS101",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/0",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "BUS101",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/0",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "BUS231",
+    "faculty": "KH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "TR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "BUS231",
+    "faculty": "KB",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "BUS231",
+    "faculty": "KB",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "BUS231",
+    "faculty": "MMHN",
+    "section": "4",
+    "seat": "0/5",
+    "timeslot": "ST 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "BUS231",
+    "faculty": "ASIFSAMI",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "BUS231",
+    "faculty": "ASIFSAMI",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "BUS231",
+    "faculty": "SDRN",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "ST 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "BUS231",
+    "faculty": "SDRN",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "TR 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "BUS231",
+    "faculty": "SDRN",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "BUS361",
+    "faculty": "MHSL",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "BUS361",
+    "faculty": "MHSL",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "BUS361",
+    "faculty": "MN",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "BUS361",
+    "faculty": "MN",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "BUS361",
+    "faculty": "MN",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "BUS361",
+    "faculty": "TANBIR",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "ST 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "BUS361",
+    "faculty": "TANBIR",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "BUS361",
+    "faculty": "NAA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "BUS361",
+    "faculty": "NAA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "BUS361",
+    "faculty": "TBA",
+    "section": "8",
+    "seat": "0/0",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "BUS498",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/200",
+    "timeslot": "A 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "BUS499",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/200",
+    "timeslot": "A 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CE_451",
+    "faculty": "DMTS",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CE_451",
+    "faculty": "DMTS",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "W 02:00 PM - 05:00 PM"
+  },
+  {
+    "course": "CE_461",
+    "faculty": "SADIK",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "SR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CE100",
+    "faculty": "DMKT",
+    "section": "1",
+    "seat": "0/5",
+    "timeslot": "S 11:50 AM - 01:50 PM"
+  },
+  {
+    "course": "CE100",
+    "faculty": "DMKT",
+    "section": "2",
+    "seat": "0/0",
+    "timeslot": "T 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CE100",
+    "faculty": "KASB",
+    "section": "3",
+    "seat": "0/0",
+    "timeslot": "M 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CE101",
+    "faculty": "DMNH",
+    "section": "1",
+    "seat": "0/10",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CE101",
+    "faculty": "TBA1",
+    "section": "2",
+    "seat": "0/5",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CE102",
+    "faculty": "KASB",
+    "section": "1",
+    "seat": "0/5",
+    "timeslot": "T 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CE102",
+    "faculty": "KASB",
+    "section": "2",
+    "seat": "0/5",
+    "timeslot": "W 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CE102",
+    "faculty": "SDR",
+    "section": "3",
+    "seat": "0/5",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CE103",
+    "faculty": "MRMK",
+    "section": "1",
+    "seat": "0/5",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CE103",
+    "faculty": "MRMK",
+    "section": "1",
+    "seat": "0/5",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CE103",
+    "faculty": "SDR",
+    "section": "2",
+    "seat": "0/5",
+    "timeslot": "S 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CE103",
+    "faculty": "SDR",
+    "section": "2",
+    "seat": "0/5",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CE200",
+    "faculty": "SADIK",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "M 08:00 AM - 11:00 AM"
+  },
+  {
+    "course": "CE201",
+    "faculty": "DMTS",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "TR 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CE201",
+    "faculty": "DMTS",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 03:10 PM - 06:10 PM"
+  },
+  {
+    "course": "CE201",
+    "faculty": "MRMK",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "T 03:10 PM - 06:10 PM"
+  },
+  {
+    "course": "CE201",
+    "faculty": "MRMK",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "ST 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CE203",
+    "faculty": "MRMK",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CE203",
+    "faculty": "SADIK",
+    "section": "2",
+    "seat": "0/40",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CE208",
+    "faculty": "SADIK",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "R 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CE211",
+    "faculty": "DMNH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CE211",
+    "faculty": "DMNH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CE211",
+    "faculty": "TBA1",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "T 03:10 PM - 06:10 PM"
+  },
+  {
+    "course": "CE211",
+    "faculty": "TBA",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "SR 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CE213",
+    "faculty": "TBA1",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CE213",
+    "faculty": "TBA2",
+    "section": "2",
+    "seat": "0/40",
+    "timeslot": "ST 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CE261",
+    "faculty": "KASB",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "SR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CE261",
+    "faculty": "KASB",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "T 08:00 AM - 11:00 AM"
+  },
+  {
+    "course": "CE261",
+    "faculty": "TBA2",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CE261",
+    "faculty": "TBA",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "TR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CE301",
+    "faculty": "DSKA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "TR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CE301",
+    "faculty": "DSKA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CE311",
+    "faculty": "DMKT",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CE315",
+    "faculty": "SAIFUL",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CE315",
+    "faculty": "SAIFUL",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 04:30 PM"
+  },
+  {
+    "course": "CE319",
+    "faculty": "SDR",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CE319",
+    "faculty": "SDR",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CE331",
+    "faculty": "DSKA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CE331",
+    "faculty": "DSKA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 04:30 PM"
+  },
+  {
+    "course": "CE333",
+    "faculty": "SADIK",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CE341",
+    "faculty": "DMKT",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "TR 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CE341",
+    "faculty": "DMKT",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 04:30 PM"
+  },
+  {
+    "course": "CE351",
+    "faculty": "DMTS",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CE361",
+    "faculty": "KASB",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 04:30 PM"
+  },
+  {
+    "course": "CE361",
+    "faculty": "KASB",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "SR 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CE401",
+    "faculty": "DSKA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "TR 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CE408",
+    "faculty": "SADIK",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "R 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CE410",
+    "faculty": "TBA1",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "R 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CE411",
+    "faculty": "SAIFUL",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "TR 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CE412",
+    "faculty": "DMNH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "W 08:00 AM - 11:00 AM"
+  },
+  {
+    "course": "CE415",
+    "faculty": "SAIFUL",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "M 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CE417",
+    "faculty": "SDR",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "R 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CE431",
+    "faculty": "SADIK",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CE441",
+    "faculty": "DMKT",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "ST 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CE451",
+    "faculty": "DMTS",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CE453",
+    "faculty": "DMTS",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CE453",
+    "faculty": "DMTS",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "W 02:00 PM - 05:00 PM"
+  },
+  {
+    "course": "CE461",
+    "faculty": "KASB",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 04:30 PM"
+  },
+  {
+    "course": "CE461",
+    "faculty": "KASB",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "SR 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CE463",
+    "faculty": "SADIK",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "SR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CE7100",
+    "faculty": "DMKT",
+    "section": "1",
+    "seat": "0/25",
+    "timeslot": "S 11:50 AM - 01:50 PM"
+  },
+  {
+    "course": "CE7100",
+    "faculty": "DMKT",
+    "section": "2",
+    "seat": "0/0",
+    "timeslot": "T 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CE7100",
+    "faculty": "KASB",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "M 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CE7101",
+    "faculty": "DMNH",
+    "section": "1",
+    "seat": "0/10",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CE7101",
+    "faculty": "TBA1",
+    "section": "2",
+    "seat": "0/5",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CE7102",
+    "faculty": "KASB",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CE7102",
+    "faculty": "KASB",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "W 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CE7102",
+    "faculty": "SDR",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CE7103",
+    "faculty": "MRMK",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CE7103",
+    "faculty": "MRMK",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CE7103",
+    "faculty": "SDR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "S 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CE7103",
+    "faculty": "SDR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CHE107",
+    "faculty": "ZUH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CHE107",
+    "faculty": "ZUH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 04:30 PM"
+  },
+  {
+    "course": "CHE107",
+    "faculty": "DTMA",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 11:00 AM"
+  },
+  {
+    "course": "CHE107",
+    "faculty": "DTMA",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CHE107",
+    "faculty": "DCKR",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "TR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CHE107",
+    "faculty": "DCKR",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CHE108",
+    "faculty": "MANI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CHE108",
+    "faculty": "MANI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CHE108",
+    "faculty": "TBA",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "ST 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CHE108",
+    "faculty": "TASMIA",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CHE108",
+    "faculty": "DMMTI",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CHE108",
+    "faculty": "DMMTI",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CHE108",
+    "faculty": "NJT",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CHE108",
+    "faculty": "MAHA",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "T 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "ZUH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "W 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "ZUH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "ZUH",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "ZUH",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "T 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DTMA",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DTMA",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DTMA",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DTMA",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "MUKTA",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "MUKTA",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "MUKTA",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "MUKTA",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "MUKTA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "MUKTA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "TR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "ASIFUR",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "ASIFUR",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "ASIFUR",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "SR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "ASIFUR",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "T 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "ASIFUR",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "SR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "ASIFUR",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "W 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DJKS",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DJKS",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DJKS",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DJKS",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DMLN",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "ST 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DMLN",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DMLN",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DMLN",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DMKH",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DMKH",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DMKH",
+    "section": "16",
+    "seat": "0/30",
+    "timeslot": "W 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DMKH",
+    "section": "16",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DCKR",
+    "section": "17",
+    "seat": "0/30",
+    "timeslot": "TR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "DCKR",
+    "section": "17",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "TBA",
+    "section": "18",
+    "seat": "0/0",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "TBA",
+    "section": "18",
+    "seat": "0/0",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "TBA",
+    "section": "18",
+    "seat": "0/0",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "TBA",
+    "section": "19",
+    "seat": "0/0",
+    "timeslot": "T 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CHE109",
+    "faculty": "TBA",
+    "section": "19",
+    "seat": "0/0",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CHE208",
+    "faculty": "MAHA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CHE208",
+    "faculty": "MAHA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CHE208",
+    "faculty": "MANI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CHE208",
+    "faculty": "MANI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CHE208",
+    "faculty": "TBA",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CHE208",
+    "faculty": "TBA",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CHE208",
+    "faculty": "DMRB",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "A 10:00 AM - 12:00 PM"
+  },
+  {
+    "course": "CHE208",
+    "faculty": "DMRB",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CS116",
+    "faculty": "MASUM",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "W 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CS116",
+    "faculty": "MASUM",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CS116",
+    "faculty": "MASUM",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CS116Lab",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/0",
+    "timeslot": "R 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CS191",
+    "faculty": "KMSK",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CS191",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CS191",
+    "faculty": "MAMRD",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CS191",
+    "faculty": "TBA",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CS217",
+    "faculty": "MASUM",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CS217",
+    "faculty": "MASUM",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "W 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "AT",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "AT",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "T 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "AT",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "AT",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "RAKIB",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "RAKIB",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "T 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "RAKIB",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "RAKIB",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "MSHQ",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "M 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "MSHQ",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "W 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "MSHQ",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "MSHQ",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "DMZM",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "DMZM",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "T 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "DMZM",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "DMZM",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "AQUIB",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "AQUIB",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "T 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "AQUIB",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "AQUIB",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TZE",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TZE",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "T 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TZE",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TZE",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "DNMH",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "M 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "DNMH",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "W 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "DNMH",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "W 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "DNMH",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "M 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "RUTBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "RUTBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "T 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "RUTBA",
+    "section": "16",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "RUTBA",
+    "section": "16",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "REZVI",
+    "section": "17",
+    "seat": "0/30",
+    "timeslot": "M 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "REZVI",
+    "section": "17",
+    "seat": "0/30",
+    "timeslot": "W 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "REZVI",
+    "section": "18",
+    "seat": "0/30",
+    "timeslot": "W 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "REZVI",
+    "section": "18",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "NRST",
+    "section": "19",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "NRST",
+    "section": "19",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "NRST",
+    "section": "20",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "NRST",
+    "section": "20",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "RRD",
+    "section": "21",
+    "seat": "0/30",
+    "timeslot": "T 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "RRD",
+    "section": "21",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "RRD",
+    "section": "22",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "RRD",
+    "section": "22",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "23",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "23",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "24",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "24",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "25",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "25",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "26",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "26",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "27",
+    "seat": "0/30",
+    "timeslot": "T 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "27",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "28",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "28",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "29",
+    "seat": "0/30",
+    "timeslot": "R 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "29",
+    "seat": "0/30",
+    "timeslot": "T 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "30",
+    "seat": "0/30",
+    "timeslot": "T 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "30",
+    "seat": "0/30",
+    "timeslot": "R 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "31",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE101",
+    "faculty": "TBA",
+    "section": "31",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE102",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE102",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TJ",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TJ",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 06:10 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TJ",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "T 03:10 PM - 06:10 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TJ",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "MI",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "MI",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "MI",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "MI",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "DAHF",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "DAHF",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "DAHF",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "DAHF",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "DAHF",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "R 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "DAHF",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "S 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "MRJ",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 04:30 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "MRJ",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "RIFAT",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "M 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "RIFAT",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "TR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "NISHAT",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "NISHAT",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "NISHAT",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "FZRN",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "SR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "FZRN",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "FZRN",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "W 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "FZRN",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "R 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "FZRN",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "PC",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "T 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "PC",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "PC",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "PC",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 04:30 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "PC",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "PC",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "SAJEEB",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "SAJEEB",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "SAJEEB",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "SAJEEB",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "ST 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "KMMU",
+    "section": "16",
+    "seat": "0/30",
+    "timeslot": "SR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "KMMU",
+    "section": "16",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "KMMU",
+    "section": "17",
+    "seat": "0/30",
+    "timeslot": "SR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "KMMU",
+    "section": "17",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "MAHCY",
+    "section": "18",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "MAHCY",
+    "section": "18",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 04:30 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "19",
+    "seat": "0/30",
+    "timeslot": "R 08:00 AM - 11:00 AM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "19",
+    "seat": "0/30",
+    "timeslot": "ST 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "20",
+    "seat": "0/30",
+    "timeslot": "SR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "20",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "21",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "21",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "22",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "22",
+    "seat": "0/30",
+    "timeslot": "T 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "22",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "22",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "23",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "23",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "23",
+    "seat": "0/30",
+    "timeslot": "R 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "24",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "24",
+    "seat": "0/30",
+    "timeslot": "W 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "24",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "25",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE103",
+    "faculty": "TBA",
+    "section": "25",
+    "seat": "0/30",
+    "timeslot": "R 08:00 AM - 11:00 AM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "MHAK",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "MHAK",
+    "section": "2",
+    "seat": "0/40",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "MHAK",
+    "section": "3",
+    "seat": "0/40",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "DSU",
+    "section": "4",
+    "seat": "0/40",
+    "timeslot": "SR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "DSU",
+    "section": "5",
+    "seat": "0/40",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "AASR",
+    "section": "6",
+    "seat": "0/40",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "AASR",
+    "section": "7",
+    "seat": "0/40",
+    "timeslot": "MW 03:10 PM - 04:10 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "SDNA",
+    "section": "8",
+    "seat": "0/40",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "SDNA",
+    "section": "9",
+    "seat": "0/40",
+    "timeslot": "S 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "SDNA",
+    "section": "9",
+    "seat": "0/40",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "SDNA",
+    "section": "10",
+    "seat": "0/40",
+    "timeslot": "R 11:20 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "SDNA",
+    "section": "10",
+    "seat": "0/40",
+    "timeslot": "T 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "MAHCY",
+    "section": "11",
+    "seat": "0/40",
+    "timeslot": "SR 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "MAHCY",
+    "section": "12",
+    "seat": "0/40",
+    "timeslot": "SR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/40",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "TBA",
+    "section": "14",
+    "seat": "0/40",
+    "timeslot": "SR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "TBA",
+    "section": "15",
+    "seat": "0/40",
+    "timeslot": "ST 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "TBA",
+    "section": "16",
+    "seat": "0/40",
+    "timeslot": "T 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "TBA",
+    "section": "16",
+    "seat": "0/40",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "TBA",
+    "section": "17",
+    "seat": "0/40",
+    "timeslot": "TR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "TBA",
+    "section": "18",
+    "seat": "0/40",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "TBA",
+    "section": "18",
+    "seat": "0/40",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "TBA",
+    "section": "19",
+    "seat": "0/40",
+    "timeslot": "SR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "TBA",
+    "section": "20",
+    "seat": "0/40",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE106",
+    "faculty": "TBA",
+    "section": "20",
+    "seat": "0/40",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE108",
+    "faculty": "RIFAT",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE108",
+    "faculty": "RIFAT",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE108",
+    "faculty": "RIFAT",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE108",
+    "faculty": "RIFAT",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "SR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE108",
+    "faculty": "TBA",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE108",
+    "faculty": "TBA",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "DAKP",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 11:00 AM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "DAKP",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "DAKP",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "DAKP",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "S 11:50 AM - 02:50 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "DSU",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "W 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "DSU",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "TR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "TM",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "TM",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "IMRAN",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "IMRAN",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "S 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "IMRAN",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "T 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "SDIS",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "SDIS",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "SDIS",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "SDNA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "T 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "SDNA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 06:10 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "SDNA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "R 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "FZRN",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "FZRN",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "ARIJIT",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "ST 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "ARIJIT",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "SUDDIN",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "SUDDIN",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "SR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "TBA",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "TBA",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "TBA",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "R 11:50 AM - 02:50 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "TBA",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "R 11:50 AM - 02:50 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "SR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "TBA",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "TR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "TBA",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "S 11:50 AM - 02:50 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "TBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "R 11:50 AM - 02:50 PM"
+  },
+  {
+    "course": "CSE110",
+    "faculty": "TBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "SR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "IMRAN",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "SDIS",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "KHALID",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "KHALID",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "ANIKA",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "SDNA",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "W 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "NISHAT",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "RIFAT",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "W 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "MAHCY",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "ARMAN",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "SABBIR",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "RABEA",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "MOON",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "W 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "YS",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE200",
+    "faculty": "TBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "DAKP",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "TR 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "DAKP",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "ATIQ",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "ATIQ",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "ATIQ",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "ATIQ",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "DHMAI",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "DHMAI",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "DHMAI",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "TR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "DHMAI",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "TM",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "TM",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "TM",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "TM",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "W 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "TM",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "R 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "TM",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "T 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "AASR",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "AASR",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "T 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "AASR",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "AASR",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "AASR",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "AASR",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "MMLI",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "MMLI",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "MMLI",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "MMLI",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "PC",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "PC",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "W 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "T 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "TBA",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "TR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "TBA",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "R 11:50 AM - 12:50 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "TBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE207",
+    "faculty": "TBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "TR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "SJ",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "SJ",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "ALI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "ALI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "SHK",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "SHK",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "SHK",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "SHK",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "T 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "SHK",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "R 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "SHK",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 12:00 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "MKN",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "MKN",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "DOF",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "TR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "DOF",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "DOF",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "DOF",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "TR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "DSMU",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "DSMU",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "DSMU",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "DSMU",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "SAMIA",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "SAMIA",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "T 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "SAMIA",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "SAMIA",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "TBA",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "TBA",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "SR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "R 03:50 PM - 05:05 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "TBA",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "TBA",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "TBA",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "TBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "TBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE209",
+    "faculty": "TBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE227",
+    "faculty": "DSU",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE227",
+    "faculty": "DSU",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "TR 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "DTBI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "TR 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "DTBI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "DTBI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "DTS",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "SR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "DTS",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "W 01:30 PM - 04:30 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "DTS",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 11:00 AM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "DTS",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "DTS",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "DHMAI",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "DHMAI",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "RARZ",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "AMITM",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "RARZ",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "RABEA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "RABEA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "R 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "TR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "W 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE246",
+    "faculty": "TBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "MHR",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "MHR",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "MHR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "MHR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "W 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "SJ",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "SJ",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "SJ",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "SJ",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "ST 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "RDA",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "W 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "RDA",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "RDA",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "RDA",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "RDA",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "M 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "RDA",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "R 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "SHK",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "SHK",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "TBA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "PMSR",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "ST 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "PMSR",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "ST 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "TBA",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "W 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "DIPAYAN",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "DIPAYAN",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "MAHADI",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "MAHADI",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "MAHADI",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "MAHADI",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "ST 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "R 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "TBA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "TBA",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "TBA",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "TBA",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "TBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "TBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE251",
+    "faculty": "TBA",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "DMRH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "TR 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "DMRH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 04:30 PM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "MKR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "M 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "MKR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "TR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "MKR",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "SR 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "MKR",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "W 08:00 AM - 11:00 AM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "MRJ",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 04:30 PM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "MRJ",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "MRJ",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "T 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "MRJ",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "MRJ",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "MRJ",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 01:10 PM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "MRJ",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 04:30 PM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "DMSHN",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "TR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "DMSHN",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "TR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "KRI",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "R 08:00 AM - 11:00 AM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "KRI",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "R 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "KRI",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "KRI",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "KRI",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "R 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "KRI",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "S 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "KRI",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "W 08:00 AM - 11:00 AM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 07:50 PM"
+  },
+  {
+    "course": "CSE302",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "DMRH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "TR 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "DMRH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "DMIM",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "T 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "DMIM",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "SR 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "DMIM",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "SR 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "DMIM",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "PC",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "DMIR",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "DMIR",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "PC",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "TBA",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "R 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "TBA",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "TBA",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "TBA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE303",
+    "faculty": "TBA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "KRI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "NYA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "KRI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "W 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "KRI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "KRI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "PMTI",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "TR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "PMTI",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "PMTI",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "PMTI",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "TR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "MOON",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "MOON",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "MOON",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "T 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "MOON",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "R 11:20 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "MOON",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "MOON",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "S 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "MOON",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "MOON",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "W 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "TBA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "TBA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "TBA",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "TBA",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "T 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "TBA",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "TBA",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "TBA",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "TBA",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "W 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "TBA",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE325",
+    "faculty": "TBA",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "ALI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "ALI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "ALI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "ALI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "DTS",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "W 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "DTS",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "MKN",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "MKN",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "MKN",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "MKN",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "NISHAT",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "NISHAT",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "T 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "NISHAT",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "NISHAT",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "NISHAT",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "NISHAT",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "TBA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE345",
+    "faculty": "TBA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "DSHR",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "DSHR",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "DSHR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "DSHR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "ANIKA",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "ANIKA",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "ANIKA",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "ANIKA",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "ANIKA",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "ANIKA",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "W 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "SABBIR",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "W 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "SABBIR",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "SR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "SABBIR",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "TR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "SABBIR",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "TBA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "T 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "TBA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "TBA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "TBA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "TBA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "TBA",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "TBA",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "TBA",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "R 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE347",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "T 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE350",
+    "faculty": "KHALID",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "W 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE350",
+    "faculty": "KHALID",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE350",
+    "faculty": "KHALID",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE350",
+    "faculty": "KHALID",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE350",
+    "faculty": "KHALID",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "R 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE360",
+    "faculty": "NYA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE360",
+    "faculty": "NYA",
+    "section": "2",
+    "seat": "0/40",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE360",
+    "faculty": "DMEI",
+    "section": "3",
+    "seat": "0/40",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE360",
+    "faculty": "DMEI",
+    "section": "4",
+    "seat": "0/40",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE360",
+    "faculty": "SDIS",
+    "section": "5",
+    "seat": "0/40",
+    "timeslot": "S 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE360",
+    "faculty": "SDIS",
+    "section": "5",
+    "seat": "0/40",
+    "timeslot": "R 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE360",
+    "faculty": "SDIS",
+    "section": "6",
+    "seat": "0/40",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE360",
+    "faculty": "SDIS",
+    "section": "6",
+    "seat": "0/40",
+    "timeslot": "T 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "DRUI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "SR 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "DRUI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "MRAR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "MRAR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "TR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "DMGR",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "DMGR",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "DMGR",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "ST 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "DMGR",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "T 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "IMRAN",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "IMRAN",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "IMRAN",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "T 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "IMRAN",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "ST 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "IMRAN",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "TBA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "TBA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "TBA",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "TBA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "TBA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE366",
+    "faculty": "TBA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "R 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE400A",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "F 09:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE400B",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "F 10:00 AM - 11:00 AM"
+  },
+  {
+    "course": "CSE400C",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "F 11:00 AM - 12:30 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "MAR",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "MAR",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "MAR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "MAR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "ST 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "MAR",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "MAR",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "KHALID",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "KHALID",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "RABEA",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "RABEA",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "R 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "RABEA",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "T 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "RABEA",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "S 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "RABEA",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "RABEA",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "R 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "ARMAN",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "ARMAN",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "W 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "TBA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "TBA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "W 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "TBA",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "TBA",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "TBA",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "TBA",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE405",
+    "faculty": "TBA",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE406",
+    "faculty": "DRUI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE406",
+    "faculty": "DRUI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE407",
+    "faculty": "RDA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE407",
+    "faculty": "RDA",
+    "section": "2",
+    "seat": "0/40",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE407",
+    "faculty": "AMITM",
+    "section": "3",
+    "seat": "0/40",
+    "timeslot": "SR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE407",
+    "faculty": "TBA",
+    "section": "4",
+    "seat": "0/40",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE407",
+    "faculty": "TBA",
+    "section": "4",
+    "seat": "0/40",
+    "timeslot": "R 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE412",
+    "faculty": "NTN",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE412",
+    "faculty": "NTN",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE412",
+    "faculty": "NTN",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "T 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE412",
+    "faculty": "NTN",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "S 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE412",
+    "faculty": "NTN",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "R 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE412",
+    "faculty": "NTN",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "M 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE412",
+    "faculty": "YS",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "W 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE412",
+    "faculty": "YS",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "SR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE412",
+    "faculty": "YS",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "ST 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE412",
+    "faculty": "YS",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "M 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE412",
+    "faculty": "TBA",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE412",
+    "faculty": "TBA",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE412",
+    "faculty": "TBA",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE420",
+    "faculty": "DTBI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE420",
+    "faculty": "DTBI",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE420",
+    "faculty": "DTBI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE420",
+    "faculty": "DTBI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE420",
+    "faculty": "DTBI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "ST 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE428",
+    "faculty": "YS",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "TR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE428",
+    "faculty": "YS",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE430",
+    "faculty": "ANIKA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "W 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE430",
+    "faculty": "ANIKA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE430",
+    "faculty": "SABBIR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE430",
+    "faculty": "SABBIR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE438",
+    "faculty": "AASR",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE438",
+    "faculty": "DAWR",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "TR 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE438",
+    "faculty": "DAWR",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "ST 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE438",
+    "faculty": "RIFAT",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE438",
+    "faculty": "YS",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE438",
+    "faculty": "DAWR",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE438",
+    "faculty": "MRAR",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE438",
+    "faculty": "MRAR",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE453",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE453",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE464",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE464",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE464",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE475",
+    "faculty": "MRAR",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "T 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE475",
+    "faculty": "MRAR",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "SR 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE475",
+    "faculty": "DRUI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "TR 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE475",
+    "faculty": "DRUI",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "W 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE475",
+    "faculty": "DMIM",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "M 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE475",
+    "faculty": "DMIM",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE475",
+    "faculty": "ATIQ",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "SR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE475",
+    "faculty": "ATIQ",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "M 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE475",
+    "faculty": "ATIQ",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE475",
+    "faculty": "ATIQ",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "SR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE477",
+    "faculty": "AMITM",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE477",
+    "faculty": "AMITM",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE477",
+    "faculty": "AMITM",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE477",
+    "faculty": "AMITM",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "T 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE477",
+    "faculty": "AMITM",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE477",
+    "faculty": "TBA",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "S 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE477",
+    "faculty": "TBA",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "W 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE477",
+    "faculty": "TBA",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "R 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "CSE479",
+    "faculty": "NTN",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE479",
+    "faculty": "NTN",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE479",
+    "faculty": "ARMAN",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "SR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE479",
+    "faculty": "ARMAN",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "T 10:10 AM - 12:10 PM"
+  },
+  {
+    "course": "CSE479",
+    "faculty": "ARMAN",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE479",
+    "faculty": "ARMAN",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE479",
+    "faculty": "ARMAN",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE479",
+    "faculty": "TBA",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE479",
+    "faculty": "TBA",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "R 04:50 PM - 06:50 PM"
+  },
+  {
+    "course": "CSE487",
+    "faculty": "DAHF",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE487",
+    "faculty": "DAHF",
+    "section": "2",
+    "seat": "0/40",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE487",
+    "faculty": "MAHCY",
+    "section": "3",
+    "seat": "0/40",
+    "timeslot": "ST 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE487",
+    "faculty": "TBA",
+    "section": "4",
+    "seat": "0/40",
+    "timeslot": "S 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE487",
+    "faculty": "TBA",
+    "section": "4",
+    "seat": "0/40",
+    "timeslot": "R 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE488",
+    "faculty": "DMRH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:30 PM"
+  },
+  {
+    "course": "CSE488",
+    "faculty": "DMRH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE489",
+    "faculty": "MKR",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "CSE489",
+    "faculty": "MKR",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "M 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE489",
+    "faculty": "TBA",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "W 08:00 AM - 10:00 AM"
+  },
+  {
+    "course": "CSE489",
+    "faculty": "TBA",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "S 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE489",
+    "faculty": "TBA",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "CSE495",
+    "faculty": "SDIS",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "CSE495",
+    "faculty": "DCR",
+    "section": "2",
+    "seat": "0/40",
+    "timeslot": "ST 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "CSE495",
+    "faculty": "DCR",
+    "section": "3",
+    "seat": "0/40",
+    "timeslot": "ST 06:30 PM - 08:00 PM"
+  },
+  {
+    "course": "CSE497",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "F 12:00 PM - 03:59 PM"
+  },
+  {
+    "course": "CSE504",
+    "faculty": "DMSR",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "A 09:00 AM - 12:00 PM"
+  },
+  {
+    "course": "CSE505",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "S 06:30 PM - 09:30 PM"
+  },
+  {
+    "course": "CSE520",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "M 06:30 PM - 09:30 PM"
+  },
+  {
+    "course": "CSE523",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "T 06:30 PM - 09:30 PM"
+  },
+  {
+    "course": "CSE526",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "W 06:30 PM - 09:30 PM"
+  },
+  {
+    "course": "CSE527",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "R 06:30 PM - 09:30 PM"
+  },
+  {
+    "course": "CSE550",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "S 06:30 PM - 09:30 PM"
+  },
+  {
+    "course": "CSE555",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "M 06:30 PM - 09:30 PM"
+  },
+  {
+    "course": "CSE556",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "T 06:30 PM - 09:30 PM"
+  },
+  {
+    "course": "CSE597",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "W 06:30 PM - 09:30 PM"
+  },
+  {
+    "course": "CSE599",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "R 06:30 PM - 09:30 PM"
+  },
+  {
+    "course": "DSA101",
+    "faculty": "DSR",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "SR 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "DSA101",
+    "faculty": "DSR",
+    "section": "2",
+    "seat": "0/40",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ECO501",
+    "faculty": "DEH",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "F 02:30 PM - 05:30 PM"
+  },
+  {
+    "course": "ECO532",
+    "faculty": "DHN",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "A 03:20 PM - 06:20 PM"
+  },
+  {
+    "course": "ECO585",
+    "faculty": "DEH",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "F 10:00 AM - 01:00 PM"
+  },
+  {
+    "course": "ECO625",
+    "faculty": "TBA",
+    "section": "1",
+    "seat": "0/20",
+    "timeslot": "F 02:30 PM - 05:30 PM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "MC",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "ST 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "MC",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "MW 11:50 AM - 01:20 PM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "IH",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "AMRH",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "ST 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "SYJ",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "SR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "UM",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "UM",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "MNK",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "MNK",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "AMRH",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "ST 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "SADIA",
+    "section": "11",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "TMNA",
+    "section": "12",
+    "seat": "0/30",
+    "timeslot": "SR 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "SANJANA",
+    "section": "13",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "STO",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "S 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "STO",
+    "section": "14",
+    "seat": "0/30",
+    "timeslot": "R 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "ABONTI",
+    "section": "15",
+    "seat": "0/30",
+    "timeslot": "TR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "SANJANA",
+    "section": "16",
+    "seat": "0/30",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "STO",
+    "section": "17",
+    "seat": "0/30",
+    "timeslot": "SR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "ABONTI",
+    "section": "18",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "ABONTI",
+    "section": "18",
+    "seat": "0/30",
+    "timeslot": "T 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "SADIA",
+    "section": "19",
+    "seat": "0/30",
+    "timeslot": "ST 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "SEH",
+    "section": "20",
+    "seat": "0/30",
+    "timeslot": "ST 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "TBA",
+    "section": "21",
+    "seat": "0/0",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7101",
+    "faculty": "TBA",
+    "section": "22",
+    "seat": "0/0",
+    "timeslot": "TR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "MAAM",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "SR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "SADIA",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "S 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "SADIA",
+    "section": "2",
+    "seat": "0/30",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "KMM",
+    "section": "3",
+    "seat": "0/30",
+    "timeslot": "SR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "KMM",
+    "section": "4",
+    "seat": "0/30",
+    "timeslot": "SR 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "SANJANA",
+    "section": "5",
+    "seat": "0/30",
+    "timeslot": "SR 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "GQH",
+    "section": "6",
+    "seat": "0/30",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "SADMAN",
+    "section": "7",
+    "seat": "0/30",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "STO",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "M 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "STO",
+    "section": "8",
+    "seat": "0/30",
+    "timeslot": "W 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "SADMAN",
+    "section": "9",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "STO",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "W 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "STO",
+    "section": "10",
+    "seat": "0/30",
+    "timeslot": "M 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "TBA",
+    "section": "11",
+    "seat": "0/0",
+    "timeslot": "MW 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ECO7102",
+    "faculty": "TBA",
+    "section": "12",
+    "seat": "0/0",
+    "timeslot": "SR 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ECO7104",
+    "faculty": "ERP",
+    "section": "1",
+    "seat": "0/30",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7104",
+    "faculty": "BKN",
+    "section": "2",
+    "seat": "0/35",
+    "timeslot": "MW 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7104",
+    "faculty": "AFD",
+    "section": "3",
+    "seat": "0/35",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7104",
+    "faculty": "MASM",
+    "section": "4",
+    "seat": "0/35",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "ECO7104",
+    "faculty": "ERP",
+    "section": "5",
+    "seat": "0/35",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "ECO7104",
+    "faculty": "TMNA",
+    "section": "6",
+    "seat": "0/40",
+    "timeslot": "MW 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "ECO7104",
+    "faculty": "STH",
+    "section": "7",
+    "seat": "0/40",
+    "timeslot": "MW 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "ECO7104",
+    "faculty": "SADMAN",
+    "section": "8",
+    "seat": "0/35",
+    "timeslot": "ST 04:50 PM - 06:20 PM"
+  },
+  {
+    "course": "ECO7104",
+    "faculty": "STH",
+    "section": "9",
+    "seat": "0/0",
+    "timeslot": "S 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ECO7104",
+    "faculty": "STH",
+    "section": "9",
+    "seat": "0/0",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ECO7104",
+    "faculty": "PPC",
+    "section": "10",
+    "seat": "0/35",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7104",
+    "faculty": "SADMAN",
+    "section": "11",
+    "seat": "0/40",
+    "timeslot": "TR 03:10 PM - 04:40 PM"
+  },
+  {
+    "course": "ECO7104",
+    "faculty": "TMNA",
+    "section": "12",
+    "seat": "0/40",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7200",
+    "faculty": "MASM",
+    "section": "1",
+    "seat": "0/40",
+    "timeslot": "MW 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7204",
+    "faculty": "ERP",
+    "section": "1",
+    "seat": "0/35",
+    "timeslot": "TR 08:30 AM - 10:00 AM"
+  },
+  {
+    "course": "ECO7204",
+    "faculty": "ERP",
+    "section": "2",
+    "seat": "0/35",
+    "timeslot": "T 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7204",
+    "faculty": "ERP",
+    "section": "2",
+    "seat": "0/35",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7204",
+    "faculty": "SEH",
+    "section": "3",
+    "seat": "0/35",
+    "timeslot": "R 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7204",
+    "faculty": "SEH",
+    "section": "3",
+    "seat": "0/35",
+    "timeslot": "T 01:30 PM - 03:00 PM"
+  },
+  {
+    "course": "ECO7204",
+    "faculty": "AFD",
+    "section": "4",
+    "seat": "0/35",
+    "timeslot": "T 10:10 AM - 11:40 AM"
+  },
+  {
+    "course": "ECO7204",
+    "faculty": "AFD",
+    "section": "4",
+    "seat": "0/35",
+    "timeslot": "R 10:10 AM - 11:40 AM"
+  }
+]
